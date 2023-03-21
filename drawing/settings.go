@@ -90,12 +90,12 @@ var DefaultSettings = Settings{
 	MutationColor:   "#ff0000",
 
 	LollipopRadius: 4,
-	LollipopHeight: 28,
+	LollipopHeight: 48,
 	BackboneHeight: 14,
 	MotifHeight:    18,
 	DomainHeight:   24,
 	Padding:        15,
-	AxisPadding:    10,
-	AxisHeight:     15,
-	TextPadding:    5,
+	AxisPadding:    20,
+	AxisHeight:     30,
+	TextPadding:    10,
 }
